@@ -24,6 +24,7 @@ public class Calculadora {
            
            //i=+1;
            System.out.println(resul);
+           f
            
            
            
